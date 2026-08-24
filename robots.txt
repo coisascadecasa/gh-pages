@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coisascadecasa.com.br/sitemap.xml
